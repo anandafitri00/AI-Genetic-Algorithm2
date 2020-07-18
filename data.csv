@@ -1,0 +1,8 @@
+Rendah,Sore,Hujan,Tinggi,Tidak
+-,Malam,Hujan,Tinggi,Ya
+Normal,Malam,Rintik,Tinggi,Tidak
+Rendah,Malam,Hujan,Normal,Tidak
+Tinggi,Sore,Rintik,-,Ya
+Rendah,Sore,Hujan,Tinggi,Ya
+Normal,Sore,Hujan,Rendah,Tidak
+Normal,Malam,Berawan,Rendah,Ya

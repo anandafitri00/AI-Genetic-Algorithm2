@@ -1,0 +1,25 @@
+suhu 
+tinggi = 1 berjumlah 3
+normal = 1 berjumlah 2
+rendah = 1 berjulah 1/0
+
+waktu 
+pagi = 1 berjumlah 1/0
+siang = 1 berjumlah 2 
+sore = 1 berjumlah 3
+malam = 1 berjumlah 4
+
+kondisi langit
+cerah = 1 berjumlah 1/0
+berawan = 1 berjumlah 2
+rintik = 1 berjumlah 3
+hujan = 1 berjumlah 4
+
+kelembapan
+tinggi = 1 berjumlah 3
+normal = 1 berjumlah 2
+rendah = 1 berjumlah 1/0
+
+operation 
+and 1 
+or  0
